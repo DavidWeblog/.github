@@ -1,7 +1,10 @@
-## Hi there 👋
+## 🙋‍♀️ A short introduction -
+### Hi there 👋
+We are the personal studio and focus on the individual developed cases and share the software theory and application cases.
+
+### Contact Info
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
