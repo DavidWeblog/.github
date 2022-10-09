@@ -1,4 +1,5 @@
-## 🙋‍♀️ A short introduction -
+## David Weblog
+
 ### Hi there 👋
 We are the personal studio and focus on the individual developed cases and share the software theory and application cases.
 
